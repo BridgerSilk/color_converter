@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/konst/OneDrive - Schulzentrum der Kreuzschwestern Linz/Anlagen/coding/learn/c++/projects/color_converter/src",
+      "program": "c:/Users/konst/OneDrive - Schulzentrum der Kreuzschwestern Linz/Anlagen/coding/learn/c++/projects/color_converter/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
